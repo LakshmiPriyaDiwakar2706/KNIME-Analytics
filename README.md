@@ -22,10 +22,11 @@ I welcome your suggestions or feedback on this mini-project and the KNIME workfl
 
 ## Useful Links
 - <a href="https://github.com/LakshmiPriyaDiwakar2706/KNIME-Analytics/blob/main/IT_Help_Desk.csv">IT Help Desk Dataset</a>
-- <a href="URL_TO_SECOND_DATASET">Second Dataset</a>
-- <a href="URL_TO_KNIME_WORKFLOW">KNIME Workflow</a>
-- <a href="URL_TO_OUTPUT_VISUAL">Output Visual</a>
-- <a href="YOUR_LINKEDIN_PROFILE_URL">LinkedIn Profile</a>
+- <a href="https://github.com/LakshmiPriyaDiwakar2706/KNIME-Analytics/blob/main/IT_Help_Desk_Additional_Data.csv">IT Help Desk Additional Dataset</a>
+- <a href="https://github.com/LakshmiPriyaDiwakar2706/KNIME-Analytics/blob/main/KNIME Workflow.png">KNIME Workflow</a>
+- <a href="https://github.com/LakshmiPriyaDiwakar2706/KNIME-Analytics/blob/main/Output Visual.png">Output Visual</a>
+
+
 
 
 
