@@ -21,7 +21,7 @@ KNIME significantly minimized manual effort, a boon for data scientists who valu
 I welcome your suggestions or feedback on this mini-project and the KNIME workflow. Whether it’s technical advice, analytical insights, or ways to improve the interpretability of visual outcomes, your input is crucial for refining the analytics process.
 
 ## Useful Links
-- <a href="https://github.com/LakshmiPriyaDiwakar2706/KNIME Analytics/blob/main/IT_Help_Desk.csv">IT Help Desk Dataset</a>
+- <a href="https://github.com/LakshmiPriyaDiwakar2706/KNIME-Analytics/blob/main/IT_Help_Desk.csv">IT Help Desk Dataset</a>
 - <a href="URL_TO_SECOND_DATASET">Second Dataset</a>
 - <a href="URL_TO_KNIME_WORKFLOW">KNIME Workflow</a>
 - <a href="URL_TO_OUTPUT_VISUAL">Output Visual</a>
