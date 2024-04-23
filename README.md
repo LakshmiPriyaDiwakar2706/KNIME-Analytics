@@ -12,5 +12,20 @@ In this mini-project, I harnessed the power of KNIME using synthetic datasets fo
 ## Learnings
 KNIME significantly minimized manual effort, a boon for data scientists who value rapid iteration. This project provided me with a practical understanding of KNIME’s functionalities and an appreciation for visual programming in enhancing the data science workflow.
 
+## Key Insights Gained from the Output Visual
+1. The average resolution time for IT helpdesk tickets is significantly higher for critical issues compared to minor ones, indicating a need for a more efficient problem-solving approach for critical cases.
+2. There is a noticeable spike in the maximum number of days tickets remain open when it comes to 'Normal' severity level tickets. This could suggest either a misclassification of severity or a bottleneck in the resolution process for this category.
+3. Despite the 'Critical' severity level having a high mean resolution time, these tickets do not stay open as long as some 'Minor' or 'Normal'
+
 ## Seeking Suggestions and Feedback
 I welcome your suggestions or feedback on this mini-project and the KNIME workflow. Whether it’s technical advice, analytical insights, or ways to improve the interpretability of visual outcomes, your input is crucial for refining the analytics process.
+
+## Useful Links
+- <a href="URL_TO_FIRST_DATASET">First Dataset</a>
+- <a href="URL_TO_SECOND_DATASET">Second Dataset</a>
+- <a href="URL_TO_KNIME_WORKFLOW">KNIME Workflow</a>
+- <a href="URL_TO_OUTPUT_VISUAL">Output Visual</a>
+- <a href="YOUR_LINKEDIN_PROFILE_URL">LinkedIn Profile</a>
+
+
+
